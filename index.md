@@ -19,5 +19,6 @@
 ##项目研究
 
 
-[我的英文版个人主页](https://github.com/sandyzcc/sandyzcc.github.io/edit/main/index-en.md)
+[我的英文版个人主页] (https://github.com/sandyzcc/sandyzcc.github.io/edit/main/index -en.md)
+
 [英文版](index-en.md)
